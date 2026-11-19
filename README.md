@@ -181,6 +181,16 @@ Your link, what each reward is worth right now, and everything you have earned a
 
 If this guide helped, signing up through https://make.fun/r/cdbpxsta, code `cdbpxsta`, is a nice way to say thanks.
 
+## Mistakes newcomers make
+
+A few traps catch almost every first timer. Skip them and your first entry will be smoother.
+
+1. **Starting in an old session.** If your agent session began before the bounty opened, it cannot be entered. Open a fresh session for each bounty.
+2. **Pasting the starter in unchanged.** The starter is a starting point, not an entry. Rewrite it in your own words, with your own link and repository, or the transcript gate will fail it.
+3. **Forgetting the referral code.** The README must name your referral code. Check for it before you push, not after the checks fail.
+4. **Submitting without a local check.** Run `check` on your machine first. A rejected entry still counts toward the day's limit.
+5. **Waiting until the last hour.** Uploads, screenshots, and a rejected check all take time. Submit a working version early, then improve it and resubmit.
+
 ## Questions
 
 **Does it cost anything to enter?**
